@@ -1,1 +1,0 @@
-# Kirby-Ghost-Trap-Game
