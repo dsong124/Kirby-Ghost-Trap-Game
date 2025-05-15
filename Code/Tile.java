@@ -1,7 +1,5 @@
 import java.awt.image.BufferedImage;
 
-//Daniel Song
-//Program Description
 
 public class Tile
 {
