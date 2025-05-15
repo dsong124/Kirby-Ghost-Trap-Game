@@ -7,9 +7,6 @@ import java.io.FileReader;
 
 import javax.imageio.ImageIO;
 
-//Daniel Song
-//Program Description
-
 public class TileMap
 {
    private int mapWidth, mapHeight, tileSize;
