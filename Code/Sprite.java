@@ -8,7 +8,6 @@ import java.util.ArrayList;
 
 import javax.imageio.ImageIO;
 
-//Daniel Song
 //Program Description: Sprite class for a side-scrolling platform game
 
 
