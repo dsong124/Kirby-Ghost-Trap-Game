@@ -1,8 +1,5 @@
 import java.awt.image.BufferedImage;
 
-//Daniel Song
-//Program Description
-//May 17, 2022
 
 public class Animation
 {
